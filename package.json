@@ -1,0 +1,19 @@
+{
+  "name": "flow",
+  "version": "1.0.0",
+  "description": "Forked from revison 4446c746c128ff416ee202b33703555cf6edf8fd",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Encanto/flow.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Encanto/flow/issues"
+  },
+  "homepage": "https://github.com/Encanto/flow#readme"
+}
