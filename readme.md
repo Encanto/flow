@@ -1,3 +1,19 @@
+# Encanto.js fork of Total.js / flow project
+
+Forked from revison 4446c746c128ff416ee202b33703555cf6edf8fd
+
+## To build
+
+(1) Install total.js globally.
+```bash
+npm install -g total.js
+```
+
+(2) From the flow project, run ./make.bat, or make.sh
+
+(3) Custom flow.package will be generated locally. This will generate a custom version of flow.package.
+
+
 # Total.js Flow
 
 [![Professional Support](https://www.totaljs.com/img/badge-support.svg)](https://www.totaljs.com/support/) [![Chat with contributors](https://www.totaljs.com/img/badge-chat.svg)](https://messenger.totaljs.com)
